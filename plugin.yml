@@ -1,0 +1,15 @@
+author: Fiftysilver
+main: fifty.xegaming.fiftyfly.FiftyFly
+name: FiftyFly
+version: 1.0
+
+commands:
+  ff:
+    description: Flight toggle.
+    usage: /ff
+  FiftyFly:
+    description: help and info.
+    usage: /fiftyfly
+  fiftynote:
+    descriptionZ: patch notes
+    usage: /fiftynote
